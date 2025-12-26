@@ -15,7 +15,7 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://dmigit.uqtr.ca/tada6923/inf1035-tp-concept.git
+git remote add origin https://dmigit.uqtr.ca/kojo7595/inf1035-tp-concept.git
 git branch -M main
 git push -uf origin main
 ```
